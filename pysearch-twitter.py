@@ -1,5 +1,25 @@
 #!/usr/bin/python
 
+##########################
+#
+# pysearch-twitter
+# simple script to search in Twitter. Prints to stdout.
+# usage:
+# python pysearch-twitter.py "android"
+#
+#########################
+
+########################
+# Yangosoft
+# http://code.google.com/p/pysearch-twitter
+# 
+########################
+
+"""
+License: http://www.gnu.org/licenses/gpl-2.0.txt
+"""
+
+
 import urllib
 import json
 import sys
